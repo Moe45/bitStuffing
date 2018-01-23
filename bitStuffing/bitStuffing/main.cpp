@@ -4,7 +4,8 @@
 using namespace std;
 
 int main() {
-	string input = "011111101111110", flag = "01111110"; int count = 0;
+	string input = "011111101111110", flag = "01111110"; 
+	int count = 0;
 	cout << "Before Stuffing: " << input << " - " << input.size() << " characters" << endl;
 	for (int i = 0; i < input.size(); i++) {
 		input[i] == '1' ? count++ : count = 0;
