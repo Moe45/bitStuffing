@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\seneca\3rd semester\dcf 255\bitstuffing\bitstuffing\main.cpp(9): warning C4018: '<': signed/unsigned mismatch
+  bitStuffing.vcxproj -> D:\Seneca\3rd semester\DCF 255\bitStuffing\Debug\bitStuffing.exe
+  bitStuffing.vcxproj -> D:\Seneca\3rd semester\DCF 255\bitStuffing\Debug\bitStuffing.pdb (Full PDB)
